@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "jsx": "react-jsx",
+        "target": "es2017", // or esnext
+        "allowJs": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "module": "commonjs",
+        "outDir": "./dist"
+    },
+    "include": ["."],
+    "exclude": ["node_modules"]
+}
